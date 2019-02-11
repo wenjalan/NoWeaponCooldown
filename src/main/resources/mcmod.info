@@ -1,0 +1,16 @@
+[
+{
+  "modid": "noweaponcooldown",
+  "name": "No Weapon Cooldown",
+  "description": "A mod to remove weapon cooldowns.",
+  "version": "0.01",
+  "mcversion": "1.12",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["wenjalan"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
