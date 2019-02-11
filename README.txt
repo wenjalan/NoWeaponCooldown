@@ -1,1 +1,1 @@
-.jar available in build/libs/noweaponcooldown-0.01.jar
+.jar file available in build/libs/noweaponcooldown-0.01.jar
